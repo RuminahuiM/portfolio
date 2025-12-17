@@ -1,5 +1,5 @@
 ---
-title: "Semester02"
+title: "Semester02 - Hugo Portfolio"
 description: 
 date: 2025-12-17T20:32:02+01:00
 image: 
@@ -9,3 +9,5 @@ hidden: false
 comments: true
 draft: true
 ---
+
+# Dokumentation für SemesterProjekt 2
