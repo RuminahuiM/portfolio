@@ -13,8 +13,8 @@ published = "Dez 17, 2025"
 lastUpdated = "Dez 17, 2025 20:00 MST"
 
 [sidebar]
-emoji = "☁️"
-subtitle = "Welcome to my project portfolio. I'm a computer science professional based in Switzerland, currently specialising in cloud-native technologies as part of a Higher Vocational Education and Training (HF) programme at TBZ (Technische Berufsschule Zürich)."
+emoji = ""
+subtitle = "System Engineer based in Switzerland. Project Portfolio for Cloud-Native HF at TBZ (Technische Berufsschule Zürich)."
 
 [sidebar.avatar]
 enabled = true
