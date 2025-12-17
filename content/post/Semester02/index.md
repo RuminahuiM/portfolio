@@ -1,6 +1,6 @@
 ---
 title: "Semester02 - Hugo Portfolio"
-description: 
+description: "second Project"
 date: 2025-12-17T20:32:02+01:00
 image: 
 math: 
