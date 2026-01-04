@@ -1,5 +1,5 @@
 ---
-title: Porjekt Template
+title: Projekt Template
 description: This is a Sample Porjekt based on X
 slug: prj-template
 date: 2026-12-24 00:00:00+0000
