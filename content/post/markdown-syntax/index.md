@@ -2,6 +2,7 @@
 title: Markdown Syntax Guide
 date: 2025-12-24 00:00:00+0000
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+image: cover.jpg
 tags: 
     - markdown
     - css
