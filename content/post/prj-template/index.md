@@ -1,7 +1,7 @@
 ---
 title: Projekt Template
 description: This is a Sample Porjekt based on X
-date: "2025-12-24 00:00:00+0000"
+date: "24.12.2025"
 image: cover.jpg
 categories:
     - Example Category
