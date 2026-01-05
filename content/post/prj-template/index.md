@@ -33,9 +33,6 @@ weight: 2       # You can add weight to some posts to override the default sorti
 
 ----
 
-# Inhaltsverzeichnis
-
-
 # Projektmanagement Dokumentation
 
 ## Einführung
