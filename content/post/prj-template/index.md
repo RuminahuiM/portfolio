@@ -1,6 +1,6 @@
 ---
 title: Projekt Template
-description: This is a Sample Porjekt based on X
+description: This is a Sample Projekt based on X
 date: "2025-12-24"
 image: cover.jpg
 categories:
