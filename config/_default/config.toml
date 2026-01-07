@@ -3,6 +3,9 @@ baseurl = "https://ruminahuim.github.io/portfolio/"
 languageCode = "de-ch"
 title = "Dodoe Rumiñahui Mannale"
 
+# Important for HUGO to work with CloudFront on AWS
+uglyurls = true
+
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "en"
