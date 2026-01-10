@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "http://test-hugohosting01.s3-website-us-east-1.amazonaws.com/"
+baseurl = "http://www.ruminahui.ch"
 languageCode = "de-ch"
 title = "Dodoe Rumiñahui Mannale"
 
